@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🦎 SINT-O TOOL
 
 **Advanced OSINT Aggregator** — Terminal Hunter
