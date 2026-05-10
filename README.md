@@ -1,4 +1,4 @@
-# 🦎 SINT-O TOOL
+# 🦎 SINT-O TOOL !!is currently down!! :(
 
 **Advanced OSINT Aggregator** — Terminal Hunter
 
